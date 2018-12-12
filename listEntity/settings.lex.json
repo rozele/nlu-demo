@@ -1,0 +1,29 @@
+{
+  "slots": [
+    {
+      "name": "Genre",
+      "slotType": "CustomGenre"
+    }
+  ],
+  "importBotTemplate": {
+    "resource": {
+      "slotTypes": [
+        {
+          "name": "CustomGenre",
+          "enumerationValues": [
+            {
+              "value": "hip hop"
+            },
+            {
+              "value": "country"
+            },
+            {
+              "value": "jazz"
+            }
+          ],
+          "valueSelectionStrategy": "ORIGINAL_VALUE"
+        }
+      ]
+    }
+  }
+}

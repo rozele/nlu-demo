@@ -1,0 +1,44 @@
+[
+    {
+      "text": "start playing music",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "play music",
+      "intent": "PlayMusic"
+    },
+    {
+      "text": "listen to hip hop",
+      "intent": "PlayMusic",
+      "entities": [
+        {
+          "entityType": "Genre",
+          "matchText": "hip hop",
+          "matchIndex": 0
+        }
+      ]
+    },
+    {
+      "text": "play a pop song",
+      "intent": "PlayMusic",
+      "entities": [
+        {
+          "entityType": "Genre",
+          "matchText": "pop",
+          "matchIndex": 0
+        }
+      ]
+    },
+    {
+      "text": "is it cold out",
+      "intent": "None"
+    },
+    {
+      "text": "how many days until Christmas",
+      "intent": "None"
+    },
+    {
+      "text": "what's the weather like",
+      "intent": "None"
+    }
+  ]

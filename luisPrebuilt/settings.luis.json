@@ -1,0 +1,12 @@
+{
+  "builtinEntityTypes": {
+    "Recipient": "personName"
+  },
+  "appTemplate": {
+    "prebuiltEntities": [
+      {
+        "name": "personName"
+      }
+    ]
+  }
+}

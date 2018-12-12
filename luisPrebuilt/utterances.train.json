@@ -1,0 +1,35 @@
+[
+  {
+    "text": "say hi to bill",
+    "intent": "SendMessage",
+    "entities": [
+      {
+        "entityType": "Recipient",
+        "matchText": "bill",
+        "matchIndex": 0
+      }
+    ]
+  },
+  {
+    "text": "tell anne thanks",
+    "intent": "SendMessage",
+    "entities": [
+      {
+        "entityType": "Recipient",
+        "matchText": "anne",
+        "matchIndex": 0
+      }
+    ]
+  },
+  {
+    "text": "say goodbye to mary",
+    "intent": "SendMessage",
+    "entities": [
+      {
+        "entityType": "Recipient",
+        "matchText": "mary",
+        "matchIndex": 0
+      }
+    ]
+  }
+]

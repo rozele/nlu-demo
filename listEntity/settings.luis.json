@@ -1,0 +1,23 @@
+{
+  "appTemplate": {
+    "closedLists": [
+      {
+        "name": "Genre",
+        "subLists": [
+          {
+            "canonicalForm": "country",
+            "list": []
+          },
+          {
+            "canonicalForm": "hip hop",
+            "list": []
+          },
+          {
+            "canonicalForm": "jazz",
+            "list": []
+          }
+        ]
+      }
+    ]
+  }
+}

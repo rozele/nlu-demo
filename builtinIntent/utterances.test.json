@@ -1,0 +1,22 @@
+[
+  {
+    "text": "skip this one",
+    "intent": "Skip"
+  },
+  {
+    "text": "next please",
+    "intent": "Skip"
+  },
+  {
+    "text": "go forward",
+    "intent": "Skip"
+  },
+  {
+    "text": "go back",
+    "intent": "None"
+  },
+  {
+    "text": "what's the weather like",
+    "intent": "None"
+  }
+]

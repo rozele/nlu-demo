@@ -1,0 +1,8 @@
+{
+  "slots": [
+    {
+      "name": "Genre",
+      "slotType": "AMAZON.Genre"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "text": "say what's up to frank",
+    "intent": "SendMessage",
+    "entities": [
+      {
+        "entityType": "Friend",
+        "matchText": "frank",
+        "matchIndex": 0
+      }
+    ]
+  },
+  {
+    "text": "tell jane thank you",
+    "intent": "SendMessage",
+    "entities": [
+      {
+        "entityType": "Friend",
+        "matchText": "jane",
+        "matchIndex": 0
+      }
+    ]
+  },
+  {
+    "text": "say bye to sara",
+    "intent": "SendMessage",
+    "entities": [
+      {
+        "entityType": "Friend",
+        "matchText": "sara",
+        "matchIndex": 0
+      }
+    ]
+  }
+]

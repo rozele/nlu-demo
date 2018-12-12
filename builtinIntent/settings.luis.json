@@ -1,0 +1,20 @@
+{
+  "appTemplate": {
+    "intents": [
+      {
+        "name": "Skip",
+        "inherits": {
+          "domain_name": "Music",
+          "model_name": "SkipForward"
+        }
+      }
+    ],
+    "utterances": [
+      {
+        "text": "next song",
+        "intent": "Skip",
+        "entities": []
+      }
+    ]
+  }
+}

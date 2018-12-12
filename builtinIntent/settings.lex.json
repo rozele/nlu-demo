@@ -1,0 +1,27 @@
+{
+  "importBotTemplate": {
+    "resource": {
+      "intents": [
+        {
+          "name": "Skip",
+          "fulfillmentActivity": {
+            "type": "ReturnIntent"
+          },
+          "sampleUtterances": [],
+          "slots": [],
+          "parentIntentSignature": "AMAZON.NextIntent"
+        },
+        {
+          "name": "None",
+          "fulfillmentActivity": {
+            "type": "ReturnIntent"
+          },
+          "sampleUtterances": [
+            "is it cold outside"
+          ],
+          "slots": []
+        }
+      ]
+    }
+  }
+}

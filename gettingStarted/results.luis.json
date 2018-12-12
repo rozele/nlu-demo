@@ -1,0 +1,32 @@
+﻿[
+  {
+    "text": "start playing music",
+    "intent": "PlayMusic",
+    "entities": []
+  },
+  {
+    "text": "play music",
+    "intent": "PlayMusic",
+    "entities": []
+  },
+  {
+    "text": "listen to hip hop",
+    "intent": "None",
+    "entities": []
+  },
+  {
+    "text": "is it cold out",
+    "intent": "None",
+    "entities": []
+  },
+  {
+    "text": "how many days until Christmas",
+    "intent": "None",
+    "entities": []
+  },
+  {
+    "text": "what's the weather like",
+    "intent": "None",
+    "entities": []
+  }
+]
